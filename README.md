@@ -1,4 +1,8 @@
-Qogecoin Core integration/staging tree
+<h1 align="center">
+Qogecoin Core [QOGE]  
+<br/><br/>
+<img src="https://i.imgur.com/tPkmb9m.png" alt="Qogecoin" width="300"/>
+</h1>
 =====================================
 
 [![Build Status](https://travis-ci.org/qogecoin-project/qogecoin.svg?branch=master)](https://travis-ci.org/qogecoin-project/qogecoin)
