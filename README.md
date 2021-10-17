@@ -3,7 +3,10 @@ Qogecoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/qogecoin-project/qogecoin.svg?branch=master)](https://travis-ci.org/qogecoin-project/qogecoin)
 
+Discord------> https://discord.gg/Fmssx7DR
+
 https://qogecoin.org
+
 
 What is Qogecoin?
 ----------------
