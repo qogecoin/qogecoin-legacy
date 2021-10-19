@@ -9,7 +9,7 @@ Qogecoin Core [QOGE]
 
 Discord------> https://discord.gg/Fmssx7DR
 
-https://qogecoin.org
+Blockexplorer----> http://www.qogescan.com
 
 
 What is Qogecoin?
