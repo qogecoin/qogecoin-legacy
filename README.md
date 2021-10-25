@@ -7,7 +7,7 @@ Qogecoin Core [QOGE]
 
 [![Build Status](https://travis-ci.org/qogecoin-project/qogecoin.svg?branch=master)](https://travis-ci.org/qogecoin-project/qogecoin)
 
-Discord------> https://discord.gg/Fmssx7DR
+Discord------> https://discord.gg/T8uYSDmtde
 
 Blockexplorer----> http://www.qogescan.com
 
