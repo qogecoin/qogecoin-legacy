@@ -31,7 +31,7 @@ install_dependencies() {
   sudo make install
   export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/lib"
 
-# Gui dependencies.
+# GUI dependencies.
   sudo apt install -y \
        libprotobuf-dev \
        libqt5core5a \
