@@ -30,7 +30,7 @@ install_dependencies() {
   make -j$(nproc)
   sudo make install
   export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/lib"
-  
+
 # Gui dependencies.
   sudo apt install -y \
        libprotobuf-dev \
