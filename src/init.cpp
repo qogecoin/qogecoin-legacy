@@ -1652,9 +1652,7 @@ bool AppInitMain(boost::thread_group& threadGroup, CScheduler& scheduler)
 
     // ********************************************************* Step 12: finished
 
-    connman.AddNode("seed1.elicoin.net");
-    connman.AddNode("seed2.elicoin.net");
-    connman.AddNode("seed3.elicoin.net");
+    connman.AddNode("seeder.qogecoin.com");
     SetRPCWarmupFinished();
     uiInterface.InitMessage(_("Done loading"));
 
